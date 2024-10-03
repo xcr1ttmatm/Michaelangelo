@@ -1,0 +1,17 @@
+h1 {
+    color: white;
+    text-align: center;
+    justify-content: center;
+ }
+ body {
+  background-image: url("290F.gif");
+  background-size: cover;
+  text-align: center;
+  margin: 10% auto;
+  color: white;
+ }
+ footer {
+    color: white;
+    margin: 12%;
+    font-size: 150%;
+   }
